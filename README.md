@@ -1,2 +1,2 @@
-# java-calculator
-basic calculator made in Java
+# personal projects
+first repository
