@@ -1,6 +1,6 @@
 # Java-Calculator
 
-A simple calculator in Java based off Google's browser calculator and Apple's iPhone calculator.
+A simple calculator in Java based on Google's browser calculator and Apple's iPhone calculator.
 
  
 The calculator works by taking in a first number, an operator, and a second number, 
