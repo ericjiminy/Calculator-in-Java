@@ -18,3 +18,5 @@ in the next equation by selecting an operator instead of inputting a new number.
 When an answer is calculated, the label above the main display will show the equation that was just entered.
 When a new equation is started, the label will show the answer that was just calculated.
 Clicking on the answer will copy it to the user's clipboard.
+
+There are some issues with the precision of the doubles where the answer will be 8.0000000002 instead of 8.
